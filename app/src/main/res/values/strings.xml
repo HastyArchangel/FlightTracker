@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlightTracker</string>
+    <string name="default_notification_channel_id">flight_tracker_channel</string>
+</resources>
